@@ -30,7 +30,7 @@ Architect and build the back end for an e-commerce site by modifying starter cod
 
 * Click on the screenshot below to watch a demo video:
 
-[![Demo of E-Commerce Back End](./dist/final.png)]()
+[![Demo of E-Commerce Back End](./dist/final.png)](https://youtu.be/ZGiuueEDsT4)
 
 ## License
 
